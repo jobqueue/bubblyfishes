@@ -2,8 +2,11 @@
 
 An immersive and relaxing deep sea experiment anywhere you go
 
+Youtube: https://www.youtube.com/watch?v=lw_A9uHn7hc&t=28s
+Devpost: https://devpost.com/software/bubblyfishes
 
-#Creative Commons Attributions
+
+## Creative Commons Attributions
 
 
 ##### Projejct Asset name: Ocean Plane Material
